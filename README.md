@@ -1,3 +1,5 @@
+# NOTE: THis is not complete, it's just a stub for the project.
+
 # Matlab wrapper for libLBFGS
 
 This is nothing more than a wrapper around native C functions for L-BFGS from https://github.com/chokkan/liblbfgs
