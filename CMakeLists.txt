@@ -1,5 +1,7 @@
-project(mlbfgs LANGUAGES C)
 cmake_minimum_required(VERSION 3.0)
+cmake_policy(SET CMP0048 NEW)
+
+project(mlbfgs VERSION 0.0.1 LANGUAGES C)
 
 # Initialize some default paths
 include(GNUInstallDirs)
